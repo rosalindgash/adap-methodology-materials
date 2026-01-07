@@ -3,7 +3,7 @@
 
 This repository contains scripts and data from:
 
-**Gash, R. R. (forthcoming). Energy-Conscious Qualitative Analysis: Automation as Accessibility in Adaptive Digital Academic Practice for Disabled Researchers.**
+**Gash, R. (forthcoming). Energy-Conscious Qualitative Analysis: Automation as Accessibility in Adaptive Digital Academic Practice for Disabled Researchers.**
 
 ## Overview
 
@@ -204,5 +204,6 @@ ORCID: https://orcid.org/0009-0005-9931-0766
 This research demonstrates that automation functions as accessibility intervention enabling disabled researchers' full participation in knowledge production, not merely as efficiency enhancement for able-bodied scholars.
 
 ---
+
 
 **Note:** The document corpus analyzed in the original study consists of publicly accessible narratives by disabled scholars. The `corpus_metadata.csv` file contains URLs and publication dates for the 31 unique narratives, enabling replication of the analysis or extension to new corpora.
