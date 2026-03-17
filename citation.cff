@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated monograph chapter."
+title: "Energy-Conscious Qualitative Analysis: Reproducibility Materials"
+authors:
+  - family-names: "Gash"
+    given-names: "Rosalind R."
+    orcid: "https://orcid.org/0009-0005-9931-0766"
+version: "1.0.0"
+date-released: "2026-01-01"
+repository-code: "https://github.com/rosalindgash/adap-methodology-materials"
+preferred-citation:
+  type: chapter
+  authors:
+    - family-names: "Gash"
+      given-names: "Rosalind R."
+  year: 2026
+  title: "Implementing energy-conscious automation: A reproducible workflow for accessible qualitative analysis"
+  book-title: "Adaptive digital academic practice: Disability, structural constraint, and epistemic entrepreneurship in graduate research"
+  pages: "206-227"
+  notes: "Preprint"
