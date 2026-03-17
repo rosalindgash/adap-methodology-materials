@@ -1,9 +1,9 @@
 
-# Energy-Conscious Qualitative Analysis: Reproducibility Materials
+# Reproducibility Materials
 
 This repository contains scripts and data from:
 
-**Gash, R. (forthcoming). Energy-Conscious Qualitative Analysis: Automation as Accessibility in Adaptive Digital Academic Practice for Disabled Researchers.**
+**Gash, R. (forthcoming). Implementing Energy-Conscious Automation: A Reproducible Workflow.**
 
 ## Overview
 
